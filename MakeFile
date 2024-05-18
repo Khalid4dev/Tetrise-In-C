@@ -1,0 +1,2 @@
+all:
+	g++ -std=c++11 -o TetriseGame main.cpp -lSDL2main -lSDL2 -Isrc/include -Lsrc/lib	
